@@ -6,3 +6,20 @@ html{
     height:100vh;
     background-size: cover;
 }
+.home{
+    color:white;
+    text-align: center;
+    padding-top: 300px;
+    font-size: bolder;
+}
+.mouse-icon{
+    padding: 10px;
+}
+#about{
+    text-align: center;
+
+}
+#about h1{
+    font-size: 20px;
+    font-weight: bold;
+}
