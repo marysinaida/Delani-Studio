@@ -1,0 +1,8 @@
+html{
+    scroll-behavior: smooth;
+}
+#land{
+    background-image: url("https://raw.githubusercontent.com/jonnygovish/IP3/master/assets/backgrounds/h_img.jpg");
+    height:100vh;
+    background-size: cover;
+}
