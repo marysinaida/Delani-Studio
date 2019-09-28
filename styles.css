@@ -17,6 +17,8 @@ html{
 }
 #about{
     text-align: center;
+    font-family: 'Copse', serif;
+    font-size: 20px;
 
 }
 #about h1{
