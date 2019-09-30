@@ -30,5 +30,19 @@ $(document).ready(function(){
       $("#product-icon").slideDown('1500');
     });
   });
+//   $("#submit").click(function(){
+//     submit();
+//     event.preventDefault();
+// })
+// function submit(){
+// var name=document.getElementById("name").value;
+// var messages = document.getElementById("message").value;
+// if(name,messages == ''){
+//     alert("Please fill out the fields")
+// }
+// else{
+// alert("Thankyou for contacting us.Message received" + ' ' + name );
+// }
+ 
   
   
