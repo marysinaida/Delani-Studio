@@ -76,6 +76,7 @@ html{
   width:650px;
   background-color: transparent;
   color: white;
+  padding-top: 0%;
 
 }
 #email{
@@ -145,4 +146,13 @@ text-align: center;
   opacity: 0.9;
   font-weight: bolder;
 }
+#footer{
+align-content: center;
+margin-left: 50%;
+margin-top: 4%;
+}
 
+::placeholder{
+  color: white;
+  padding-top: 0%;
+}
